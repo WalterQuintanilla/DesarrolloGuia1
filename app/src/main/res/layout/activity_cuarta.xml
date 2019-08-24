@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Cuarta">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100px"
+        android:text="Datos del Alumno::"
+        android:textAlignment="center"
+        android:layout_marginLeft="80px"
+        android:layout_marginRight="80px"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100px"
+        android:text="Nombre: Walter Antonio Aguilar Quintanilla"
+        android:textAlignment="center"
+        android:layout_marginLeft="80px"
+        android:layout_marginRight="80px"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100px"
+        android:text="Codigo:  AQ16-I04-001"
+        android:textAlignment="center"
+        android:layout_marginLeft="80px"
+        android:layout_marginRight="80px"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100px"
+        android:text="Correlativo de Asistencia::  14"
+        android:textAlignment="center"
+        android:layout_marginLeft="80px"
+        android:layout_marginRight="80px"/>
+</LinearLayout>
